@@ -211,7 +211,7 @@ public class frmPrincipal extends javax.swing.JFrame {
         // A vous de jouer
         //exercice 3
          double primedebeug;
-         int nombreannee = 30000;
+         int nombreannee = 300;
          int nouvelleannee;
          
          
